@@ -7,7 +7,7 @@
 <editor>Charles River Medias</editor>
 <isbn>978-1584503804</isbn>
 <precio>50.06</precio>
-<numPag>150</numPag>
+<numPag>551</numPag>
 </libro>
 <libro>
 <titulo>Principios de seguridad informática para usuarios</titulo>
@@ -15,7 +15,7 @@
 <editor>Dykinson</editor>
 <isbn>978-84-9849-998-8</isbn>
 <precio>13.00</precio>
-<numPag>150</numPag>
+<numPag>190</numPag>
 </libro>
 <libro>
 <titulo> Ejercicios complementarios de lógica digital</titulo>
@@ -23,7 +23,7 @@
 <editor>Dykinson</editor>
 <isbn>978-84-9849-703-8</isbn>
 <precio>12.00</precio>
-<numPag>150</numPag>
+<numPag>100</numPag>
 </libro>
 <libro>
 <titulo> Ejercicios suplementrios de lógica digital</titulo>
@@ -31,7 +31,7 @@
 <editor>Dykinson</editor>
 <isbn>203-02-9849-953-8</isbn>
 <precio>10.00</precio>
-<numPag>150</numPag>
+<numPag>120</numPag>
 </libro>
 <libro>
 <titulo> Principios totales de estudios antropologicos</titulo>
@@ -39,7 +39,7 @@
 <editor>Dykinson</editor>
 <isbn>912-84-7894-703-6</isbn>
 <precio>09.00</precio>
-<numPag>150</numPag>
+<numPag>180</numPag>
 </libro>
 <libro>
 <titulo> Principios totales de estudios geologicos</titulo>
@@ -47,7 +47,7 @@
 <editor>Dykinson</editor>
 <isbn>912-84-7894-703-6</isbn>
 <precio>09.00</precio>
-<numPag>150</numPag>
+<numPag>130</numPag>
 </libro>
 <libro>
 <titulo>Metro 2034</titulo>
@@ -63,6 +63,6 @@
 <editor>Dykinson</editor>
 <isbn>912-01-7894-999-6</isbn>
 <precio>60.50</precio>
-<numPag>150</numPag>
+<numPag>200</numPag>
 </libro>
 </libreria>
