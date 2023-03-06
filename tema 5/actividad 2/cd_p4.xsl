@@ -13,13 +13,12 @@
                 <th>anyo publicacion</th>
             </tr>
             <xsl:for-each select="lista/CD">
-            <xsl:if test="@duracion &lt; 3:00">
                 <tr>
                     <td><xsl:value-of select="titulodealbum"/></td>
                     <td><xsl:value-of select="artista"/></td>
                     <td>
                         <ul>
-                            <xsl:for-each select="canciones/cancion">
+                            <xsl:for-each select="canciones/cancion[@tiempo &lt; 180]">
                                 <li>
                                     <xsl:value-of select="."/>
                                     <xsl:value-of select="@duracion"/>
@@ -30,7 +29,6 @@
                     <td><xsl:value-of select="sellodiscografico"/></td>
                     <td><xsl:value-of select="anopublicacion"/></td>
                 </tr>
-            </xsl:if>
             </xsl:for-each>
         </table>
     </body>
