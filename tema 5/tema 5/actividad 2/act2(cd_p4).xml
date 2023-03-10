@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
+<lista>
+    <CD>
+        <titulodealbum>Hijos de la ruina Vol.3</titulodealbum>
+        <artista>Natos y Waor</artista>
+        <canciones>
+            <cancion tiempo = "241">
+                <titulo>Mas alcohol</titulo>
+                <duracion>4:01</duracion>
+            </cancion>
+            <cancion tiempo = "231">
+                <titulo>A la tumba</titulo>
+                <duracion>3:51</duracion>
+            </cancion>
+            <cancion tiempo = "291">
+                <titulo>Cuestion de Fe</titulo>
+                <duracion>4:51</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>nulo</sellodiscografico>
+        <anopublicacion>2021</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Cicatrices</titulodealbum>
+        <artista>Natos y Waor</artista>
+        <canciones>
+            <cancion tiempo = "238">
+                <titulo>Bicho raro</titulo>
+                <duracion>3:58</duracion>
+            </cancion>
+            <cancion tiempo = "180">
+                <titulo>Cicatrices</titulo>
+                <duracion>3:00</duracion>
+            </cancion>
+            <cancion tiempo = "204">
+                <titulo>Pecados</titulo>
+                <duracion>3:24</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>nulo</sellodiscografico>
+        <anopublicacion>2021</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Donde quiero estar</titulodealbum>
+        <artista>Quevedo</artista>
+        <canciones>
+            <cancion tiempo = "175">
+                <titulo>Eramos dos</titulo>
+                <duracion>2:55</duracion>
+            </cancion>
+            <cancion tiempo = "238">
+                <titulo>Playa del ingles</titulo>
+                <duracion>3:58</duracion>
+            </cancion>
+            <cancion tiempo = "195">
+                <titulo>Yankee</titulo>
+                <duracion>3:15</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>Taste the floor records</sellodiscografico>
+        <anopublicacion>2022</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Un verano sin ti</titulodealbum>
+        <artista>Bad Bunny</artista>
+        <canciones>
+            <cancion tiempo = "79">
+                <titulo>Me porto bonito</titulo>
+                <duracion>2:59</duracion>
+            </cancion>
+            <cancion tiempo = "246">
+                <titulo>Moscow mule</titulo>
+                <duracion>4:06</duracion>
+            </cancion>
+            <cancion tiempo = "259">
+                <titulo>Ojitos bonitos</titulo>
+                <duracion>4:19</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>Rimas Entertainment</sellodiscografico>
+        <anopublicacion>2022</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Estopa</titulodealbum>
+        <artista>Estopa</artista>
+        <canciones>
+            <cancion tiempo = "211">
+                <titulo>Como Camaron</titulo>
+                <duracion>3:31</duracion>
+            </cancion>
+            <cancion tiempo = "246">
+                <titulo>El del medio de los chichos</titulo>
+                <duracion>3:57</duracion>
+            </cancion>
+            <cancion tiempo = "160">
+                <titulo>Cacho a cacho</titulo>
+                <duracion>2:40</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>Sony Music</sellodiscografico>
+        <anopublicacion>1999</anopublicacion>
+    </CD> 
+    <CD>
+        <titulodealbum>Destrangis</titulodealbum>
+        <artista>Estopa</artista>
+        <canciones>
+            <cancion tiempo = "199">
+                <titulo>Vino tinto</titulo>
+                <duracion>3:19</duracion>
+            </cancion>
+            <cancion tiempo = "240">
+                <titulo>Partiendo la pana</titulo>
+                <duracion>4:00</duracion>
+            </cancion>
+            <cancion tiempo = "307">
+                <titulo>Nasio pa la alegria</titulo>
+                <duracion>3:27</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>Sony Music</sellodiscografico>
+        <anopublicacion>2001</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Cara y cruz</titulodealbum>
+        <artista>Ayax y prok</artista>
+        <canciones>
+            <cancion tiempo = "235">
+                <titulo>Dama de la guadaña</titulo>
+                <duracion>3:55</duracion>
+            </cancion>
+            <cancion tiempo = "205">
+                <titulo>Desahucio</titulo>
+                <duracion>3:25</duracion>
+            </cancion>
+            <cancion tiempo = "126">
+                <titulo>Bañador y chancletas</titulo>
+                <duracion>2:06</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>ALBZ records</sellodiscografico>
+        <anopublicacion>2018</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Rojo y negro</titulodealbum>
+        <artista>Ayax y prok</artista>
+        <canciones>
+            <cancion tiempo = "241">
+                <titulo>Salvatore manzano</titulo>
+                <duracion>4:01</duracion>
+            </cancion>
+            <cancion tiempo = "189">
+                <titulo>Cayena</titulo>
+                <duracion>3:09</duracion>
+            </cancion>
+            <cancion tiempo = "162">
+                <titulo>Roxanne</titulo>
+                <duracion>2:42</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>ALBZ records</sellodiscografico>
+        <anopublicacion>2018</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Paraiso</titulodealbum>
+        <artista>Mora</artista>
+        <canciones>
+            <cancion tiempo = "200">
+                <titulo>Apa</titulo>
+                <duracion>3:20</duracion>
+            </cancion>
+            <cancion tiempo = "128">
+                <titulo>Como has estau?</titulo>
+                <duracion>2:08</duracion>
+            </cancion>
+            <cancion tiempo = "184">
+                <titulo>Casualidad</titulo>
+                <duracion>3:04</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>Rimas Entertaiment</sellodiscografico>
+        <anopublicacion>2022</anopublicacion>
+    </CD>
+    <CD>
+        <titulodealbum>Siempre</titulodealbum>
+        <artista>Hard GZ</artista>
+        <canciones>
+            <cancion tiempo = "176">
+                <titulo>Mortales</titulo>
+                <duracion>2:56</duracion>
+            </cancion>
+            <cancion tiempo = "271">
+                <titulo>Cambios</titulo>
+                <duracion>4:31</duracion>
+                <tiempo>271</tiempo>
+            </cancion>
+            <cancion tiempo = "173">
+                <titulo>La llave</titulo>
+                <duracion>2:53</duracion>
+            </cancion>
+        </canciones>
+        <sellodiscografico>BMG</sellodiscografico>
+        <anopublicacion>2020</anopublicacion>
+    </CD>   
+</lista>
