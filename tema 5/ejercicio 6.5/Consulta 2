@@ -1,0 +1,7 @@
+replace value of node
+doc("BD_Libros.xml")//Libros/libro[Titulo="Metro 2033"]/Cod_Libro
+with "11"
+,
+replace node
+doc("BD_Libros.xml")//Libros/libro[Titulo="Metro 2033"]/Autores/autor/Cod_Autor
+with "11"
